@@ -156,7 +156,7 @@ namespace Tetris_expo_mep
 
         private void creditosToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Ahumada Ramiro, Quinteros Alan, Farias Agustin, Nieva Santiago ","Creditos");
+            MessageBox.Show("Nieva Santiago ","Creditos");
         }
     }
 }
