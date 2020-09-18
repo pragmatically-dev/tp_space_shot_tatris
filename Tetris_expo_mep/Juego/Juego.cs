@@ -170,6 +170,7 @@ namespace Tetris_expo_mep.Juego
         }
         private void Juego_FormClosed(object sender, FormClosedEventArgs e)
         {
+            Application.Exit();
         }
         private void Crono_Tick(object sender, EventArgs e)
         {
